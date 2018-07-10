@@ -1,2 +1,4 @@
-²âÊÔÎÄµµ
+2017-10-07
+
 testing inputing text and submitting changes
+apparently, Chinese texts cannot be successfully uploaded to github?
