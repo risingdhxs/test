@@ -4,3 +4,6 @@ This project is created to learn and test github, including *features* and **fun
 2018-10-07
 added DocTesting.txt
 Chinense characters are not recognized; use English only
+
+2018-10-07
+created new branch 1stBranch
